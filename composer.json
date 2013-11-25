@@ -1,5 +1,5 @@
 {
-    "name": "phpmd/phpmd",
+    "name": "rallen/phpmd",
     "description": "Official version of PHPMD handled with Composer.",
     "license": "BSD-3-Clause",
 
