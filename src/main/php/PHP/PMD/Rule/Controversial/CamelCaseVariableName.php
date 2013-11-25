@@ -47,8 +47,8 @@
  * @since      1.1.0
  */
 
-require_once 'PHP/PMD/AbstractRule.php';
-require_once 'PHP/PMD/Rule/IMethodAware.php';
+
+
 
 /**
  * This rule class detects variables not named in camelCase.

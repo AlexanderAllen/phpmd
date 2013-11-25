@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/AbstractNode.php';
+
 
 /**
  * Wrapper around a PHP_Depend ast node.

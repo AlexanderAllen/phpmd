@@ -1,8 +1,8 @@
 <?php
 
-require_once 'PHP/PMD/AbstractRule.php';
-require_once 'PHP/PMD/Rule/IMethodAware.php';
-require_once 'PHP/PMD/Rule/IFunctionAware.php';
+
+
+
 
 /**
  * Check if static access is used in a method.

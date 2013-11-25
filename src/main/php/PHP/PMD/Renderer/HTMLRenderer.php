@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/AbstractRenderer.php';
+
 
 /**
  * This renderer output a simple html file with all found violations and suspect

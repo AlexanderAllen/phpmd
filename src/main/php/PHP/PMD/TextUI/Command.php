@@ -46,8 +46,8 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD.php';
-require_once 'PHP/PMD/TextUI/CommandLineOptions.php';
+
+
 
 /**
  * This class provides a command line interface for PHP_PMD

@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/Node/Annotation.php';
+
 
 /**
  * Collection of code annotations.

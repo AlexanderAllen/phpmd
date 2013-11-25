@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/AbstractRule.php';
+
 
 /**
  * This is a helper class that collects the specified cli arguments and puts them

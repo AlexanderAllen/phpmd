@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/Node/AbstractNode.php';
+
 
 /**
  * Abstract base class for PHP_Depend function and method wrappers.

@@ -46,7 +46,7 @@
  * @link       http://phpmd.org
  */
 
-require_once 'PHP/PMD/Node/AbstractType.php';
+
 
 /**
  * Wrapper around PHP_Depend's class objects.

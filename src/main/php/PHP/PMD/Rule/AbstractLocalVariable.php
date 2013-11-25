@@ -47,7 +47,7 @@
  * @since      0.2.6
  */
 
-require_once 'PHP/PMD/Rule/AbstractLocalVariable.php';
+
 
 /**
  * Base class for rules that rely on local variables.
