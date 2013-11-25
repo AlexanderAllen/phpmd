@@ -12,6 +12,11 @@
         "../../pdepend/pdepend/src/main/php",
         "src/main/php"
     ],
-    "bin": ["src/bin/phpmd"]
+    "bin": ["src/bin/phpmd"],
+    "autoload": {
+        "psr-0": {
+            "PHP\\PMD": "src/main/php"
+        }
+    }
 }
 
