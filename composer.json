@@ -15,7 +15,7 @@
     "bin": ["src/bin/phpmd"],
     "autoload": {
         "psr-0": {
-            "PHP\\PMD": "src/main/php"
+            "PHP_PMD": "src/main/php"
         }
     }
 }
